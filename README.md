@@ -225,6 +225,13 @@ For projects containing their own `package.json`, navigate into the respective d
 | React + TypeScript | ✅ Practiced |
 
 ---
+## 🌱 Why TypeScript?
+
+TypeScript adds a static type system to JavaScript, helping developers catch many mistakes during development and providing better editor tooling.
+
+Learning TypeScript is especially useful for building larger applications where maintainability, readability, and type safety become increasingly important.
+
+---
 
 
 
